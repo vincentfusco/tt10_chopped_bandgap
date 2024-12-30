@@ -1,0 +1,3 @@
+source /usr/local/share/pdk/sky130A/libs.tech/xschem/xschemrc
+
+set terminal {xterm -fa monaco -fs 13 -bg black -fg green}

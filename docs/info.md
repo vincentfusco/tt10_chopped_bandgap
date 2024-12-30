@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A bandgap reference that outputs a stable 1.2V given a 3.3V supply.
 
 ## How to test
 
